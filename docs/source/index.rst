@@ -8,7 +8,7 @@
 
 this is kumo search.
 
-`中文文档 <./index_cn.rst>`_
+`中文文档 <./index_cn.html>`_
 
 Contents
 --------
