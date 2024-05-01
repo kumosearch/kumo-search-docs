@@ -6,15 +6,14 @@
     :align: center
     :alt: hercules
 
-this is kumo search.
+这是中文文档
 
-`中文文档 <./index_cn.rst>`_
 
 Contents
 --------
 
 .. toctree::
-    :caption: WELCOME TO KUMO SEARCH
+    :caption: 欢迎来到 KUMO SEARCH
     :maxdepth: 2
 
     en/welcome
