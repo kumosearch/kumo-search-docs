@@ -1,7 +1,7 @@
 .. Copyright 2024 The Elastic AI Search Authors.
 .. Licensed under the Apache License, Version 2.0 (the "License");
 
-..  image:: image/hercules_img.png
+..  image:: image/kumo_search_logo.png
     :scale: 80 %
     :align: center
     :alt: hercules
@@ -9,6 +9,11 @@
 this is kumo search.
 
 `中文文档 <./index_cn.html>`_
+
+..  image:: image/kumo_search.gif
+    :scale: 80 %
+    :align: center
+    :alt: kumo search
 
 Contents
 --------
